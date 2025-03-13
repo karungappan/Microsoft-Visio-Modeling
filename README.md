@@ -54,4 +54,4 @@ The project follows a structured approach to **analyze the business activities, 
 
 - **Microsoft Visio** – For BPMN diagrams and business activity modeling  
 - **BPMN 2.0** – Industry-standard notation for process modeling  
-- **Microsoft Word** – Documentation and business analysis  
+- **Google Docs** – Documentation and business analysis  
